@@ -1,0 +1,370 @@
+[Info  - 11:18:07 AM] Initialising intelephense 1.10.1
+[Info  - 11:18:07 AM] Initialised in 14 ms
+[Info  - 11:18:07 AM] Environment changed. Refreshing 4 in memory documents.
+[Info  - 11:18:07 AM] Searching file:///home/s245/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 11:18:07 AM] Searching file:///home/s245 for files to index.
+[Info  - 11:18:07 AM] Searching file:///home/s245/.vscode-server/data/User/globalStorage/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 11:18:07 AM] Searching file:///home/s245/.vscode-server/data/User/workspaceStorage/bafc61b3c12b80fbd74fefa2df04ee8e/bmewburn.vscode-intelephense-client for files to index.
+[Warn  - 11:18:07 AM] file:///home/s245/4BMW/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 11:18:07 AM] Indexing started.
+[Info  - 11:18:19 AM] Indexing ended. 7328 files indexed in 11s.
+[Info  - 11:18:19 AM] Writing state to /home/s245/.vscode-server/data/User/workspaceStorage/bafc61b3c12b80fbd74fefa2df04ee8e/bmewburn.vscode-intelephense-client/35251de0.
+[Info  - 11:18:20 AM] Wrote state in 1.1s.
+[Info  - 11:22:50 AM] Indexing started.
+[Info  - 11:22:51 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 11:23:27 AM] Searching file:///home/s245/.vscode-server/data/User/History/3842ab08 for files to index.
+[Info  - 11:44:15 AM] Searching file:///home/s245/.vscode-server/data/User/History/46b949f9 for files to index.
+[Info  - 11:49:38 AM] Indexing started.
+[Info  - 11:49:38 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:14:53 PM] Searching file:///home/s245/.vscode-server/data/User/History/-79f2ee14 for files to index.
+[Info  - 12:14:53 PM] Indexing started.
+[Info  - 12:14:53 PM] Indexing ended. 5 files indexed in 0s.
+[Info  - 12:14:59 PM] Searching file:///home/s245/.vscode-server/data/User/History/3d4ec022 for files to index.
+[Info  - 12:14:59 PM] Indexing started.
+[Info  - 12:14:59 PM] Indexing ended. 4 files indexed in 0s.
+[Info  - 12:15:11 PM] Indexing started.
+[Info  - 12:15:11 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:16:34 PM] Indexing started.
+[Info  - 12:16:34 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:16:38 PM] Indexing started.
+[Info  - 12:16:38 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:17:00 PM] Indexing started.
+[Info  - 12:17:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:17:26 PM] Indexing started.
+[Info  - 12:17:26 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:27:08 PM] Searching file:///home/s245/.vscode-server/data/logs/20231115T100453/exthost3 for files to index.
+[Info  - 3:27:08 PM] Searching file:///home/s245/.vscode-server/data/logs/20231115T100453/exthost3/vscode.git for files to index.
+[Info  - 3:27:08 PM] Searching file:///home/s245/.vscode-server/data/logs/20231115T100453/exthost3/vscode.github for files to index.
+[Info  - 3:40:04 PM] Searching file:///home/s245/4BMW/SAE3.01_BMW_4 for files to index.
+[Info  - 3:40:37 PM] Searching file:///home/s245/SAE3.01_BMW_4 for files to index.
+[Info  - 3:41:08 PM] Searching file:///home/s245/SAE3.01_BMW_4 for files to index.
+[Info  - 3:42:30 PM] Searching file:///home/s245/SAE3.01_BMW_4 for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/.github for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/assets for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/contexts for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/credentialstore for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/credentialstore/interfaces for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/credentialstore/linux for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/credentialstore/osx for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/credentialstore/win32 for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/helpers for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/info for files to index.
+[Info  - 3:47:17 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/services for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ansi-gray for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ansi-regex for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ansi-styles for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ansi-wrap for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/archy for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/arr-diff for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/arr-flatten for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/array-differ for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/array-uniq for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/array-unique for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/assign-symbols for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/beeper for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/braces for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/chalk for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/clone for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/clone-stats for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/color-support for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/dateformat for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/define-property for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/deprecated for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/detect-file for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/duplexer for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/duplexer2 for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/escape-string-regexp for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/event-stream for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/expand-brackets for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/extend for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/extend-shallow for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/extglob for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/fancy-log for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/fill-range for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/findup-sync for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/fragment-cache for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/from for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/fs for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/git-repo-info for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/glogg for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/gulp for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/gulp-util for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/gulplog for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/has-ansi for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/has-gulplog for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/interpret for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-buffer for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-extendable for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-extglob for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-glob for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-number for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/liftoff for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._basecopy for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._basetostring for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._basevalues for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._getnative for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._isiterateecall for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._reescape for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._reevaluate for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._reinterpolate for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash._root for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash.escape for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash.isarguments for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash.isarray for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash.keys for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash.restparam for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash.template for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash.templatesettings for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/map-stream for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/micromatch for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/multipipe for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/pause-stream for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/posix-character-classes for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/repeat-element for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/repeat-string for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/replace-ext for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/snapdragon-node for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/snapdragon-util for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/sparkles for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/split for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/split-string for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/stream-combiner for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/strip-ansi for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/supports-color for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/through for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/through2 for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/time-stamp for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/to-regex-range for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/vinyl for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/xtend for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/tfvc for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/out/src/tfvc/scm for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/patches for files to index.
+[Info  - 3:47:18 PM] Searching file:///home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/resources for files to index.
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/arr-union'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/array-slice'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/array-each'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/atob'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/balanced-match'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/base'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/brace-expansion'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/cache-base'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/class-utils'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/collection-visit'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/component-emitter'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/concat-map'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/copy-descriptor'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/debug'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/decode-uri-component'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/defaults'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/end-of-stream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/expand-tilde'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/find-index'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/fined'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/flagged-respawn'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/for-in'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/for-own'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/gaze'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/get-value'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/glob-stream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/glob-watcher'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/glob2base'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/global-modules'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/global-prefix'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/globule'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/graceful-fs'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/has-value'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/has-values'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/homedir-polyfill'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/inflight'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-absolute'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-accessor-descriptor'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-data-descriptor'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-descriptor'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-plain-object'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-relative'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-unc-path'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-windows'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/isexe'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/isobject'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/kind-of'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lru-cache'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/make-iterator'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/map-cache'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/map-visit'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/minimist'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/mixin-deep'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ms'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/nanomatch'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/natives'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/object-copy'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/object-visit'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/object.defaults'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/object.map'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/object.pick'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/once'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/orchestrator'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ordered-read-streams'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/os-homedir'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/parse-filepath'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/parse-passwd'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/pascalcase'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/path-parse'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/path-root'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/path-root-regex'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/pretty-hrtime'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/rechoir'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/regex-not'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/resolve'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/resolve-dir'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/resolve-url'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ret'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/safe-regex'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/semver'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/sequencify'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/set-value'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/sigmund'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/snapdragon'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/source-map'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/source-map-resolve'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/source-map-url'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/static-extend'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/stream-consume'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/tildify'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/to-object-path'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/to-regex'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/unc-path-regex'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/union-value'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/unique-stream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/unset-value'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/urix'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/use'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/user-home'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/v8flags'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/vinyl-fs'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/which'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/wrappy'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/core-util-is'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/first-chunk-stream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/inherits'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ini'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-utf8'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/isarray'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/lodash'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/mkdirp'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/open'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/opener'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/parse-git-config'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/path'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/process'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/process-nextick-args'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/readable-stream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/request-promise-core'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/request-promise-native'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/safe-buffer'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/string_decoder'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/strip-bom'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/util'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/util-deprecate'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/punycode'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/querystring'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/stealthy-require'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/tough-cookie'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/underscore'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/url'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/uuid'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/vso-node-api'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ajv'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/asynckit'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/aws-sign2'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/aws4'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/caseless'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/combined-stream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/delayed-stream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/forever-agent'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/form-data'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/har-validator'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/q'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/request'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/tunnel'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/vsts-device-flow-auth'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/asn1'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/async'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/bcrypt-pbkdf'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/co'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/assert-plus'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/colors'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/cycle'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/dashdash'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/ecc-jsbn'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/extsprintf'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/eyes'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/fast-deep-equal'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/fast-json-stable-stringify'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/getpass'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/har-schema'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/http-signature'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/is-typedarray'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/isstream'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/jsbn'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/json-schema'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/json-schema-traverse'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/json-stringify-safe'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/jsprim'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/mime-db'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/mime-types'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/oauth-sign'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/performance-now'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/qs'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/sax'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/sshpk'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/stack-trace'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/tunnel-agent'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/tweetnacl'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/verror'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/winston'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/xml2js'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/xmlbuilder'
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/node_modules/xmldoc'
+[Info  - 3:47:19 PM] Searching file:///home/s245/.vscode-server/extensions/argutec.argutec-azure-repos-1.2007.15 for files to index.
+[Warn  - 3:47:19 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e/package.json'
+[Info  - 3:49:47 PM] Searching file:///home/s245/SAE3.01_BMW_4 for files to index.
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/.vsixmanifest'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/CHANGELOG.md'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/LICENSE.txt'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/README.md'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/SECURITY.md'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/ThirdPartyNotices.txt'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/dist'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/dist/extension.js'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/dist/webview-create-pr-view.js'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/dist/webview-open-pr-view.js'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/dist/webview-pr-description.js'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.cs.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.de.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.es.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.fr.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.it.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.ja.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.ko.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.pl.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.pt-br.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.qps-ploc.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.ru.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.tr.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.zh-cn.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/package.nls.zh-tw.json'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/resources'
+[Warn  - 3:54:51 PM] Error: ENOENT: no such file or directory, stat '/home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2/telemetry.json'
+[Info  - 3:54:51 PM] Searching file:///home/s245/.vscode-server/extensions/github.vscode-pull-request-github-0.66.2 for files to index.
+[Info  - 3:54:52 PM] Searching file:///home/s245/.vscode-server/data/User/globalStorage/github.vscode-pull-request-github for files to index.
+[Info  - 3:54:52 PM] Searching file:///home/s245/.vscode-server/data/User/globalStorage/github.vscode-pull-request-github/temp for files to index.
+[Info  - 3:54:52 PM] Searching file:///home/s245/.vscode-server/data/logs/20231115T100453/exthost3/GitHub.vscode-pull-request-github for files to index.
+[Info  - 3:56:31 PM] Searching file:///home/s245/test for files to index.
+[Info  - 4:07:21 PM] Searching file:///home/s245/.vscode-server/data/logs/20231115T100453/exthost3/output_logging_20231115T152707 for files to index.

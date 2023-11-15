@@ -1,0 +1,224 @@
+2023-11-15 15:27:07.674 [info] Log level: Info
+2023-11-15 15:27:07.674 [info] Validating found git in: "git"
+2023-11-15 15:27:07.674 [info] Using git "2.20.1" from "git"
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [42ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:27:07.674 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-15 15:27:07.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:37:14.362 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-15 15:37:14.362 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:39:55.400 [info] GitProtocolHandler.handleUri(vscode://vscode.git/clone?url%3Dhttps%3A%2F%2FAlbanCharrin%40dev.azure.com%2FAlbanCharrin%2FSAE3.01_BMW_4%2F_git%2FSAE3.01_BMW_4)
+2023-11-15 15:39:55.427 [info] Executing git.clone for https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4
+2023-11-15 15:40:24.636 [info] > git clone https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4 /home/s245/4BMW/SAE3.01_BMW_4 --progress [20907ms] (cancelled)
+2023-11-15 15:40:35.000 [info] GitProtocolHandler.handleUri(vscode://vscode.git/clone?url%3Dhttps%3A%2F%2FAlbanCharrin%40dev.azure.com%2FAlbanCharrin%2FSAE3.01_BMW_4%2F_git%2FSAE3.01_BMW_4)
+2023-11-15 15:40:35.027 [info] Executing git.clone for https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4
+2023-11-15 15:40:46.665 [info] > git clone https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4 /home/s245/SAE3.01_BMW_4 --progress [9603ms]
+2023-11-15 15:40:46.665 [info] Cloning into '/home/s245/SAE3.01_BMW_4'...
+fatal: Authentication failed for 'https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4/'
+2023-11-15 15:41:06.722 [info] GitProtocolHandler.handleUri(vscode://vscode.git/clone?url%3Dhttps%3A%2F%2FAlbanCharrin%40dev.azure.com%2FAlbanCharrin%2FSAE3.01_BMW_4%2F_git%2FSAE3.01_BMW_4)
+2023-11-15 15:41:06.769 [info] Executing git.clone for https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4
+2023-11-15 15:41:08.610 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-15 15:41:08.618 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-15 15:41:08.630 [info] Open repository: /home/s245/SAE3.01_BMW_4
+2023-11-15 15:41:08.651 [info] > git config --get commit.template [12ms]
+2023-11-15 15:41:08.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-11-15 15:41:08.664 [info] > git status -z -uall --find-renames=50% [2ms]
+2023-11-15 15:41:08.689 [info] > git config --get commit.template [11ms]
+2023-11-15 15:41:08.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 15:41:08.699 [info] > git status -z -uall --find-renames=50% [2ms]
+2023-11-15 15:41:09.222 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-15 15:41:46.696 [info] > git clone https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4 /home/s245/SAE3.01_BMW_4 --progress [38761ms]
+2023-11-15 15:41:46.696 [info] Cloning into '/home/s245/SAE3.01_BMW_4'...
+fatal: Authentication failed for 'https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4/'
+2023-11-15 15:41:48.912 [warning] ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/HEAD'
+2023-11-15 15:41:48.927 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/config'
+2023-11-15 15:41:48.945 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/config'
+2023-11-15 15:41:48.952 [warning] ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/HEAD'
+2023-11-15 15:42:27.155 [info] GitProtocolHandler.handleUri(vscode://vscode.git/clone?url%3Dhttps%3A%2F%2FAlbanCharrin%40dev.azure.com%2FAlbanCharrin%2FSAE3.01_BMW_4%2F_git%2FSAE3.01_BMW_4)
+2023-11-15 15:42:27.181 [info] Executing git.clone for https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4
+2023-11-15 15:42:31.093 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-15 15:42:31.102 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-11-15 15:42:31.110 [info] Open repository: /home/s245/SAE3.01_BMW_4
+2023-11-15 15:42:31.126 [info] > git config --get commit.template [8ms]
+2023-11-15 15:42:31.126 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-15 15:42:31.134 [info] > git status -z -uall --find-renames=50% [2ms]
+2023-11-15 15:42:31.153 [info] > git config --get commit.template [8ms]
+2023-11-15 15:42:31.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 15:42:31.163 [info] > git status -z -uall --find-renames=50% [2ms]
+2023-11-15 15:42:31.678 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-15 15:42:35.715 [info] > git clone https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4 /home/s245/SAE3.01_BMW_4 --progress [5292ms]
+2023-11-15 15:42:35.715 [info] Cloning into '/home/s245/SAE3.01_BMW_4'...
+fatal: Authentication failed for 'https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4/'
+2023-11-15 15:42:37.559 [warning] ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/HEAD'
+2023-11-15 15:42:37.573 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/config'
+2023-11-15 15:42:37.587 [warning] ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/HEAD'
+2023-11-15 15:42:37.598 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/s245/SAE3.01_BMW_4/.git/config'
+2023-11-15 15:47:17.716 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-15 15:47:17.716 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:47:19.421 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-15 15:47:19.421 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-15 15:49:29.976 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-15 15:49:29.985 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-15 15:49:29.999 [info] Open repository: /home/s245
+2023-11-15 15:49:30.020 [info] No remotes found in the git config file.
+2023-11-15 15:49:30.022 [info] > git config --get commit.template [12ms]
+2023-11-15 15:49:30.023 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-11-15 15:49:30.086 [info] > git status -z -uall --find-renames=50% [51ms]
+2023-11-15 15:49:31.097 [info] > git config --get commit.template [26ms]
+2023-11-15 15:49:31.099 [info] > git check-ignore -v -z --stdin [10ms]
+2023-11-15 15:49:31.114 [info] No remotes found in the git config file.
+2023-11-15 15:49:31.128 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2023-11-15 15:49:31.184 [info] > git status -z -uall --find-renames=50% [45ms]
+2023-11-15 15:49:45.678 [info] GitProtocolHandler.handleUri(vscode://vscode.git/clone?url%3Dhttps%3A%2F%2FAlbanCharrin%40dev.azure.com%2FAlbanCharrin%2FSAE3.01_BMW_4%2F_git%2FSAE3.01_BMW_4)
+2023-11-15 15:49:45.707 [info] Executing git.clone for https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4
+2023-11-15 15:49:48.233 [info] > git check-ignore -v -z --stdin [3ms]
+2023-11-15 15:49:55.384 [info] > git clone https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4 /home/s245/SAE3.01_BMW_4 --progress [7909ms]
+2023-11-15 15:49:55.384 [info] Cloning into '/home/s245/SAE3.01_BMW_4'...
+fatal: Authentication failed for 'https://AlbanCharrin@dev.azure.com/AlbanCharrin/SAE3.01_BMW_4/_git/SAE3.01_BMW_4/'
+2023-11-15 15:50:30.724 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-15 15:54:51.418 [info] > git config --local branch.master.github-pr-owner-number [2ms]
+2023-11-15 15:54:51.439 [info] No remotes found in the git config file.
+2023-11-15 15:54:51.441 [info] > git config --get commit.template [12ms]
+2023-11-15 15:54:51.441 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-15 15:54:51.508 [info] > git status -z -uall --find-renames=50% [56ms]
+2023-11-15 15:55:40.902 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-15 15:55:45.687 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-11-15 15:55:54.073 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-11-15 15:56:07.086 [info] > git config --local branch.master.github-pr-owner-number [2ms]
+2023-11-15 15:56:07.113 [info] > git config --get commit.template [13ms]
+2023-11-15 15:56:07.114 [info] No remotes found in the git config file.
+2023-11-15 15:56:07.114 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-15 15:56:07.175 [info] > git status -z -uall --find-renames=50% [52ms]
+2023-11-15 15:56:08.148 [info] > git config --get commit.template [3ms]
+2023-11-15 15:56:08.160 [info] No remotes found in the git config file.
+2023-11-15 15:56:08.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-11-15 15:56:08.232 [info] > git status -z -uall --find-renames=50% [52ms]
+2023-11-15 15:56:13.419 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-15 15:56:31.660 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-15 15:58:34.999 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-15 15:58:52.384 [info] > git show --textconv :README.md [13ms]
+2023-11-15 15:58:52.405 [info] > git ls-files --stage -- /home/s245/README.md [23ms]
+2023-11-15 15:59:33.445 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-15 15:59:51.419 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-15 15:59:51.446 [info] > git config --get commit.template [14ms]
+2023-11-15 15:59:51.447 [info] No remotes found in the git config file.
+2023-11-15 15:59:51.447 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-15 15:59:51.509 [info] > git status -z -uall --find-renames=50% [51ms]
+2023-11-15 15:59:52.496 [info] > git config --get commit.template [13ms]
+2023-11-15 15:59:52.511 [info] No remotes found in the git config file.
+2023-11-15 15:59:52.512 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 15:59:52.571 [info] > git status -z -uall --find-renames=50% [44ms]
+2023-11-15 16:00:10.758 [info] > git ls-files --stage -- /home/s245/README.md [2ms]
+2023-11-15 16:00:10.798 [info] > git show --textconv :README.md [1ms]
+2023-11-15 16:00:39.233 [info] > git ls-files --stage -- /home/s245/README.md [2ms]
+2023-11-15 16:00:39.268 [info] > git show --textconv :README.md [1ms]
+2023-11-15 16:03:01.651 [info] > git ls-files --stage -- /home/s245/README.md [2ms]
+2023-11-15 16:03:01.692 [info] > git show --textconv :README.md [2ms]
+2023-11-15 16:04:26.481 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-11-15 16:04:34.265 [info] > git checkout -q -b Master --no-track HEAD [2ms]
+2023-11-15 16:04:34.265 [info] fatal: 'HEAD' is not a commit and a branch 'Master' cannot be created from it
+2023-11-15 16:04:34.291 [info] > git config --get commit.template [12ms]
+2023-11-15 16:04:34.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:04:34.350 [info] > git status -z -uall --find-renames=50% [46ms]
+2023-11-15 16:04:35.324 [info] > git config --get commit.template [3ms]
+2023-11-15 16:04:35.356 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2023-11-15 16:04:35.416 [info] > git status -z -uall --find-renames=50% [48ms]
+2023-11-15 16:04:36.452 [info] > git config --local branch.master.github-pr-owner-number [73ms]
+2023-11-15 16:04:36.468 [info] > git config --get commit.template [5ms]
+2023-11-15 16:04:36.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2023-11-15 16:04:36.553 [info] > git status -z -uall --find-renames=50% [41ms]
+2023-11-15 16:04:40.529 [info] > git config --get commit.template [16ms]
+2023-11-15 16:04:40.531 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-15 16:04:40.584 [info] > git status -z -uall --find-renames=50% [42ms]
+2023-11-15 16:04:45.776 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-11-15 16:04:51.640 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-15 16:04:51.671 [info] > git config --get commit.template [17ms]
+2023-11-15 16:04:51.672 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:04:51.735 [info] > git status -z -uall --find-renames=50% [47ms]
+2023-11-15 16:04:52.638 [info] > git config --get commit.template [2ms]
+2023-11-15 16:04:52.657 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:04:52.712 [info] > git status -z -uall --find-renames=50% [40ms]
+2023-11-15 16:04:53.786 [info] > git checkout -q -b Laravel --no-track HEAD [2ms]
+2023-11-15 16:04:53.786 [info] fatal: 'HEAD' is not a commit and a branch 'Laravel' cannot be created from it
+2023-11-15 16:04:53.825 [info] > git config --get commit.template [21ms]
+2023-11-15 16:04:53.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:04:53.883 [info] > git status -z -uall --find-renames=50% [39ms]
+2023-11-15 16:05:47.063 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-11-15 16:07:02.725 [info] > git config --get commit.template [11ms]
+2023-11-15 16:07:02.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-15 16:07:02.794 [info] > git status -z -uall --find-renames=50% [59ms]
+2023-11-15 16:07:07.922 [info] > git config --get commit.template [14ms]
+2023-11-15 16:07:07.923 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-11-15 16:07:07.977 [info] > git status -z -uall --find-renames=50% [40ms]
+2023-11-15 16:07:13.083 [info] > git config --get commit.template [12ms]
+2023-11-15 16:07:13.084 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:07:13.133 [info] > git status -z -uall --find-renames=50% [37ms]
+2023-11-15 16:07:18.237 [info] > git config --get commit.template [15ms]
+2023-11-15 16:07:18.238 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:07:18.303 [info] > git status -z -uall --find-renames=50% [51ms]
+2023-11-15 16:07:21.033 [info] > git show --textconv :test/in.html [14ms]
+2023-11-15 16:07:21.034 [info] > git ls-files --stage -- /home/s245/test/in.html [2ms]
+2023-11-15 16:07:21.233 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-15 16:07:27.001 [info] > git config --get commit.template [13ms]
+2023-11-15 16:07:27.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-15 16:07:27.059 [info] > git status -z -uall --find-renames=50% [39ms]
+2023-11-15 16:07:32.167 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-15 16:07:32.167 [info] > git config --get commit.template [16ms]
+2023-11-15 16:07:32.233 [info] > git status -z -uall --find-renames=50% [48ms]
+2023-11-15 16:07:34.282 [info] > git ls-files --stage -- /home/s245/test/in.html [2ms]
+2023-11-15 16:07:34.325 [info] > git show --textconv :test/in.html [1ms]
+2023-11-15 16:07:37.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-15 16:07:37.341 [info] > git config --get commit.template [16ms]
+2023-11-15 16:07:37.394 [info] > git status -z -uall --find-renames=50% [37ms]
+2023-11-15 16:07:42.517 [info] > git config --get commit.template [18ms]
+2023-11-15 16:07:42.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:07:42.580 [info] > git status -z -uall --find-renames=50% [42ms]
+2023-11-15 16:07:47.678 [info] > git config --get commit.template [1ms]
+2023-11-15 16:07:47.698 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-15 16:07:47.758 [info] > git status -z -uall --find-renames=50% [39ms]
+2023-11-15 16:07:49.176 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-15 16:07:52.867 [info] > git config --get commit.template [17ms]
+2023-11-15 16:07:52.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:07:52.921 [info] > git status -z -uall --find-renames=50% [38ms]
+2023-11-15 16:07:59.379 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-11-15 16:08:03.513 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-11-15 16:08:13.546 [info] > git checkout -q -b Laravel --no-track HEAD [2ms]
+2023-11-15 16:08:13.546 [info] fatal: 'HEAD' is not a commit and a branch 'Laravel' cannot be created from it
+2023-11-15 16:08:13.578 [info] > git config --get commit.template [15ms]
+2023-11-15 16:08:13.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:08:13.639 [info] > git status -z -uall --find-renames=50% [47ms]
+2023-11-15 16:08:14.612 [info] > git config --get commit.template [2ms]
+2023-11-15 16:08:14.625 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:08:14.678 [info] > git status -z -uall --find-renames=50% [40ms]
+2023-11-15 16:08:23.329 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) refs/heads/ [1ms]
+2023-11-15 16:09:51.832 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-15 16:09:51.847 [info] > git config --get commit.template [1ms]
+2023-11-15 16:09:51.860 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-15 16:09:51.926 [info] > git status -z -uall --find-renames=50% [55ms]
+2023-11-15 16:09:55.105 [info] > git config --get commit.template [13ms]
+2023-11-15 16:09:55.107 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-15 16:09:55.166 [info] > git status -z -uall --find-renames=50% [45ms]
+2023-11-15 16:10:00.293 [info] > git config --get commit.template [16ms]
+2023-11-15 16:10:00.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:10:00.350 [info] > git status -z -uall --find-renames=50% [43ms]
+2023-11-15 16:11:14.202 [info] > git config --get commit.template [11ms]
+2023-11-15 16:11:14.203 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:11:14.268 [info] > git status -z -uall --find-renames=50% [53ms]
+2023-11-15 16:11:20.960 [info] > git config --get commit.template [16ms]
+2023-11-15 16:11:20.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-15 16:11:21.011 [info] > git status -z -uall --find-renames=50% [37ms]
+2023-11-15 16:13:43.211 [info] > git config --get commit.template [14ms]
+2023-11-15 16:13:43.213 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-11-15 16:13:43.277 [info] > git status -z -uall --find-renames=50% [53ms]

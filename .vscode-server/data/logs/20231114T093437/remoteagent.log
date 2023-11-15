@@ -1,0 +1,175 @@
+2023-11-14 09:34:37.149 [info] 
+
+
+
+
+2023-11-14 09:34:37.149 [info] Extension host agent started.
+2023-11-14 09:34:37.162 [info] Started initializing default profile extensions in extensions installation folder. file:///home/s245/.vscode-server/extensions
+2023-11-14 09:34:37.182 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/s245/.vscode-server/extensions
+2023-11-14 09:34:37.200 [info] [127.0.0.1][ac8c675c][ManagementConnection] New connection established.
+2023-11-14 09:34:37.236 [info] [127.0.0.1][e5583a45][ExtensionHostConnection] New connection established.
+2023-11-14 09:34:37.361 [info] [127.0.0.1][e5583a45][ExtensionHostConnection] <3426383> Launched Extension Host Process.
+2023-11-14 09:34:41.308 [info] [127.0.0.1][ac8c675c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-14 09:34:41.323 [info] [127.0.0.1][e5583a45][ExtensionHostConnection] <3426383> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 09:34:41.324 [info] Cancelling previous shutdown timeout
+2023-11-14 09:34:41.324 [info] Last EH closed, waiting before shutting down
+2023-11-14 09:34:46.900 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-11-14 09:34:46.900 [info] Cancelling previous shutdown timeout
+2023-11-14 09:34:47.025 [info] [127.0.0.1][638e2d1b][ManagementConnection] New connection established.
+2023-11-14 09:34:47.063 [info] [127.0.0.1][2e50dcad][ExtensionHostConnection] New connection established.
+2023-11-14 09:34:47.074 [info] [127.0.0.1][2e50dcad][ExtensionHostConnection] <3426621> Launched Extension Host Process.
+2023-11-14 09:34:49.255 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-11-14 09:37:22.886 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-11-14 09:37:22.887 [info] Cancelling previous shutdown timeout
+2023-11-14 09:37:23.088 [info] [127.0.0.1][bf0cd705][ManagementConnection] New connection established.
+2023-11-14 09:37:23.120 [info] [127.0.0.1][00a9cb16][ExtensionHostConnection] New connection established.
+2023-11-14 09:37:23.132 [info] [127.0.0.1][00a9cb16][ExtensionHostConnection] <3428476> Launched Extension Host Process.
+2023-11-14 09:37:27.746 [info] [127.0.0.1][bf0cd705][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-14 09:37:27.770 [info] [127.0.0.1][00a9cb16][ExtensionHostConnection] <3428476> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 09:37:27.770 [info] Cancelling previous shutdown timeout
+2023-11-14 09:37:36.951 [info] [127.0.0.1][662cc7d4][ManagementConnection] New connection established.
+2023-11-14 09:37:37.008 [info] [127.0.0.1][d8fc3e9c][ExtensionHostConnection] New connection established.
+2023-11-14 09:37:37.021 [info] [127.0.0.1][d8fc3e9c][ExtensionHostConnection] <3428764> Launched Extension Host Process.
+2023-11-14 09:37:37.458 [warning] RequestStore#acceptReply was called without receiving a matching request 97
+2023-11-14 09:37:37.459 [warning] RequestStore#acceptReply was called without receiving a matching request 98
+2023-11-14 09:37:37.459 [warning] RequestStore#acceptReply was called without receiving a matching request 99
+2023-11-14 09:37:37.460 [warning] RequestStore#acceptReply was called without receiving a matching request 100
+2023-11-14 09:37:37.460 [warning] RequestStore#acceptReply was called without receiving a matching request 101
+2023-11-14 09:37:37.460 [warning] RequestStore#acceptReply was called without receiving a matching request 102
+2023-11-14 09:37:37.589 [warning] RequestStore#acceptReply was called without receiving a matching request 103
+2023-11-14 09:37:37.589 [warning] RequestStore#acceptReply was called without receiving a matching request 104
+2023-11-14 09:37:37.590 [warning] RequestStore#acceptReply was called without receiving a matching request 105
+2023-11-14 09:37:37.592 [warning] RequestStore#acceptReply was called without receiving a matching request 106
+2023-11-14 09:37:37.593 [warning] RequestStore#acceptReply was called without receiving a matching request 107
+2023-11-14 09:37:37.593 [warning] RequestStore#acceptReply was called without receiving a matching request 108
+2023-11-14 09:37:37.595 [warning] RequestStore#acceptReply was called without receiving a matching request 109
+2023-11-14 09:37:37.595 [warning] RequestStore#acceptReply was called without receiving a matching request 110
+2023-11-14 09:37:37.595 [warning] RequestStore#acceptReply was called without receiving a matching request 111
+2023-11-14 09:37:37.596 [warning] RequestStore#acceptReply was called without receiving a matching request 112
+2023-11-14 09:37:37.596 [warning] RequestStore#acceptReply was called without receiving a matching request 113
+2023-11-14 09:37:37.597 [warning] RequestStore#acceptReply was called without receiving a matching request 114
+2023-11-14 09:37:38.899 [warning] RequestStore#acceptReply was called without receiving a matching request 115
+2023-11-14 09:37:38.920 [warning] RequestStore#acceptReply was called without receiving a matching request 116
+2023-11-14 09:37:38.939 [warning] RequestStore#acceptReply was called without receiving a matching request 117
+2023-11-14 09:37:38.962 [warning] RequestStore#acceptReply was called without receiving a matching request 118
+2023-11-14 09:37:38.983 [warning] RequestStore#acceptReply was called without receiving a matching request 119
+2023-11-14 09:37:39.008 [warning] RequestStore#acceptReply was called without receiving a matching request 120
+2023-11-14 09:37:40.917 [warning] RequestStore#acceptReply was called without receiving a matching request 121
+2023-11-14 09:37:40.941 [warning] RequestStore#acceptReply was called without receiving a matching request 122
+2023-11-14 09:37:40.965 [warning] RequestStore#acceptReply was called without receiving a matching request 123
+2023-11-14 09:37:40.986 [warning] RequestStore#acceptReply was called without receiving a matching request 124
+2023-11-14 09:37:41.008 [warning] RequestStore#acceptReply was called without receiving a matching request 125
+2023-11-14 09:37:41.030 [warning] RequestStore#acceptReply was called without receiving a matching request 126
+2023-11-14 09:38:37.040 [info] [127.0.0.1][d1c2a3d1][ManagementConnection] New connection established.
+2023-11-14 09:38:37.104 [info] [127.0.0.1][29aaef8b][ExtensionHostConnection] New connection established.
+2023-11-14 09:38:37.113 [info] [127.0.0.1][29aaef8b][ExtensionHostConnection] <3429232> Launched Extension Host Process.
+2023-11-14 09:38:40.401 [info] [127.0.0.1][d1c2a3d1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-14 09:38:40.421 [info] [127.0.0.1][29aaef8b][ExtensionHostConnection] <3429232> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 09:38:44.739 [info] [127.0.0.1][866b095c][ManagementConnection] New connection established.
+2023-11-14 09:38:44.795 [info] [127.0.0.1][7d790f9d][ExtensionHostConnection] New connection established.
+2023-11-14 09:38:44.802 [info] [127.0.0.1][7d790f9d][ExtensionHostConnection] <3429450> Launched Extension Host Process.
+2023-11-14 09:38:45.000 [warning] RequestStore#acceptReply was called without receiving a matching request 151
+2023-11-14 09:38:45.000 [warning] RequestStore#acceptReply was called without receiving a matching request 152
+2023-11-14 09:38:45.101 [warning] RequestStore#acceptReply was called without receiving a matching request 153
+2023-11-14 09:38:45.127 [warning] RequestStore#acceptReply was called without receiving a matching request 154
+2023-11-14 09:38:45.127 [warning] RequestStore#acceptReply was called without receiving a matching request 155
+2023-11-14 09:38:45.130 [warning] RequestStore#acceptReply was called without receiving a matching request 156
+2023-11-14 09:38:45.156 [warning] RequestStore#acceptReply was called without receiving a matching request 157
+2023-11-14 09:38:45.156 [warning] RequestStore#acceptReply was called without receiving a matching request 158
+2023-11-14 09:38:45.157 [warning] RequestStore#acceptReply was called without receiving a matching request 159
+2023-11-14 09:38:45.172 [warning] RequestStore#acceptReply was called without receiving a matching request 151
+2023-11-14 09:38:45.172 [warning] RequestStore#acceptReply was called without receiving a matching request 152
+2023-11-14 09:38:45.173 [warning] RequestStore#acceptReply was called without receiving a matching request 160
+2023-11-14 09:38:45.173 [warning] RequestStore#acceptReply was called without receiving a matching request 161
+2023-11-14 09:38:45.173 [warning] RequestStore#acceptReply was called without receiving a matching request 153
+2023-11-14 09:38:45.173 [warning] RequestStore#acceptReply was called without receiving a matching request 162
+2023-11-14 09:38:45.183 [warning] RequestStore#acceptReply was called without receiving a matching request 154
+2023-11-14 09:38:45.183 [warning] RequestStore#acceptReply was called without receiving a matching request 155
+2023-11-14 09:38:45.196 [warning] RequestStore#acceptReply was called without receiving a matching request 163
+2023-11-14 09:38:45.197 [warning] RequestStore#acceptReply was called without receiving a matching request 164
+2023-11-14 09:38:45.198 [warning] RequestStore#acceptReply was called without receiving a matching request 165
+2023-11-14 09:38:45.218 [warning] RequestStore#acceptReply was called without receiving a matching request 166
+2023-11-14 09:38:45.219 [warning] RequestStore#acceptReply was called without receiving a matching request 167
+2023-11-14 09:38:45.220 [warning] RequestStore#acceptReply was called without receiving a matching request 168
+2023-11-14 09:38:45.282 [warning] RequestStore#acceptReply was called without receiving a matching request 156
+2023-11-14 09:38:45.296 [warning] RequestStore#acceptReply was called without receiving a matching request 157
+2023-11-14 09:38:45.296 [warning] RequestStore#acceptReply was called without receiving a matching request 158
+2023-11-14 09:38:45.298 [warning] RequestStore#acceptReply was called without receiving a matching request 159
+2023-11-14 09:38:45.301 [warning] RequestStore#acceptReply was called without receiving a matching request 160
+2023-11-14 09:38:45.302 [warning] RequestStore#acceptReply was called without receiving a matching request 161
+2023-11-14 09:38:45.302 [warning] RequestStore#acceptReply was called without receiving a matching request 162
+2023-11-14 09:38:45.322 [warning] RequestStore#acceptReply was called without receiving a matching request 163
+2023-11-14 09:38:45.323 [warning] RequestStore#acceptReply was called without receiving a matching request 164
+2023-11-14 09:38:45.336 [warning] RequestStore#acceptReply was called without receiving a matching request 165
+2023-11-14 09:38:45.336 [warning] RequestStore#acceptReply was called without receiving a matching request 166
+2023-11-14 09:38:45.337 [warning] RequestStore#acceptReply was called without receiving a matching request 167
+2023-11-14 09:38:45.337 [warning] RequestStore#acceptReply was called without receiving a matching request 168
+2023-11-14 09:38:46.942 [warning] RequestStore#acceptReply was called without receiving a matching request 169
+2023-11-14 09:38:46.943 [warning] RequestStore#acceptReply was called without receiving a matching request 169
+2023-11-14 09:38:46.963 [warning] RequestStore#acceptReply was called without receiving a matching request 170
+2023-11-14 09:38:46.965 [warning] RequestStore#acceptReply was called without receiving a matching request 170
+2023-11-14 09:38:46.981 [warning] RequestStore#acceptReply was called without receiving a matching request 171
+2023-11-14 09:38:46.985 [warning] RequestStore#acceptReply was called without receiving a matching request 171
+2023-11-14 09:38:46.987 [error] CodeExpectedError: Could not find pty on pty host
+    at k.L (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
+    at k.updateTitle (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
+    at Object.call (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
+    at h.s (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
+    at h.q (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
+    at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
+    at l.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at u.deliver (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at s.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.z (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-11-14 09:38:47.002 [warning] RequestStore#acceptReply was called without receiving a matching request 172
+2023-11-14 09:38:47.005 [warning] RequestStore#acceptReply was called without receiving a matching request 172
+2023-11-14 09:38:47.024 [warning] RequestStore#acceptReply was called without receiving a matching request 173
+2023-11-14 09:38:47.027 [warning] RequestStore#acceptReply was called without receiving a matching request 173
+2023-11-14 09:38:47.046 [warning] RequestStore#acceptReply was called without receiving a matching request 174
+2023-11-14 09:38:47.049 [warning] RequestStore#acceptReply was called without receiving a matching request 174
+2023-11-14 09:39:57.706 [warning] RequestStore#acceptReply was called without receiving a matching request 175
+2023-11-14 09:39:57.727 [warning] RequestStore#acceptReply was called without receiving a matching request 176
+2023-11-14 09:39:57.746 [warning] RequestStore#acceptReply was called without receiving a matching request 177
+2023-11-14 09:39:57.766 [warning] RequestStore#acceptReply was called without receiving a matching request 178
+2023-11-14 09:39:57.785 [warning] RequestStore#acceptReply was called without receiving a matching request 175
+2023-11-14 09:39:57.789 [warning] RequestStore#acceptReply was called without receiving a matching request 179
+2023-11-14 09:39:57.791 [warning] RequestStore#acceptReply was called without receiving a matching request 176
+2023-11-14 09:39:57.792 [warning] RequestStore#acceptReply was called without receiving a matching request 177
+2023-11-14 09:39:57.792 [warning] RequestStore#acceptReply was called without receiving a matching request 178
+2023-11-14 09:39:57.793 [warning] RequestStore#acceptReply was called without receiving a matching request 179
+2023-11-14 09:39:57.811 [warning] RequestStore#acceptReply was called without receiving a matching request 180
+2023-11-14 09:39:57.812 [warning] RequestStore#acceptReply was called without receiving a matching request 180
+2023-11-14 09:41:56.981 [warning] RequestStore#acceptReply was called without receiving a matching request 181
+2023-11-14 09:41:56.996 [warning] RequestStore#acceptReply was called without receiving a matching request 181
+2023-11-14 09:41:57.005 [warning] RequestStore#acceptReply was called without receiving a matching request 182
+2023-11-14 09:41:57.005 [warning] RequestStore#acceptReply was called without receiving a matching request 182
+2023-11-14 09:41:57.029 [warning] RequestStore#acceptReply was called without receiving a matching request 183
+2023-11-14 09:41:57.030 [warning] RequestStore#acceptReply was called without receiving a matching request 183
+2023-11-14 09:41:57.045 [warning] RequestStore#acceptReply was called without receiving a matching request 184
+2023-11-14 09:41:57.049 [warning] RequestStore#acceptReply was called without receiving a matching request 184
+2023-11-14 09:41:57.066 [warning] RequestStore#acceptReply was called without receiving a matching request 185
+2023-11-14 09:41:57.071 [warning] RequestStore#acceptReply was called without receiving a matching request 185
+2023-11-14 09:41:57.089 [warning] RequestStore#acceptReply was called without receiving a matching request 186
+2023-11-14 09:41:57.093 [warning] RequestStore#acceptReply was called without receiving a matching request 186
+2023-11-14 10:29:51.340 [info] [127.0.0.1][638e2d1b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-14 10:29:51.371 [info] [127.0.0.1][2e50dcad][ExtensionHostConnection] <3426621> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 13:44:08.959 [info] [127.0.0.1][7d790f9d][ExtensionHostConnection] <3429450> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 13:44:30.048 [info] [127.0.0.1][d8fc3e9c][ExtensionHostConnection] <3428764> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 13:44:30.048 [info] Last EH closed, waiting before shutting down
+2023-11-14 13:49:30.051 [info] Last EH closed, shutting down
