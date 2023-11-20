@@ -5,18 +5,18 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:46665 (IPv4)
-Extension host agent listening on 46665
+Server bound to 127.0.0.1:38605 (IPv4)
+Extension host agent listening on 38605
 
-[10:04:53] 
-
-
+[10:17:39] 
 
 
-[10:04:53] Extension host agent started.
-[10:04:54] [127.0.0.1][ed6bbee9][ManagementConnection] New connection established.
-[10:04:54] [127.0.0.1][8bb1db35][ExtensionHostConnection] New connection established.
-[10:04:54] [127.0.0.1][8bb1db35][ExtensionHostConnection] <3826879> Launched Extension Host Process.
+
+
+[10:17:39] Extension host agent started.
+[10:17:39] [127.0.0.1][095e5686][ManagementConnection] New connection established.
+[10:17:39] [127.0.0.1][34c38c59][ExtensionHostConnection] New connection established.
+[10:17:39] [127.0.0.1][34c38c59][ExtensionHostConnection] <2565596> Launched Extension Host Process.
 [IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
   '-c',
   'wget --version > /dev/null\n' +
@@ -77,19 +77,25 @@ Extension host agent listening on 46665
     'fi\n' +
     'exit 0'
 ]
-[10:05:00] [127.0.0.1][ed6bbee9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[10:05:00] [127.0.0.1][8bb1db35][ExtensionHostConnection] <3826879> Extension Host Process exited with code: 0, signal: null.
+[10:17:44] [127.0.0.1][095e5686][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:17:44] [127.0.0.1][34c38c59][ExtensionHostConnection] <2565596> Extension Host Process exited with code: 0, signal: null.
 Cancelling previous shutdown timeout
-[10:05:00] Cancelling previous shutdown timeout
+[10:17:44] Cancelling previous shutdown timeout
 Last EH closed, waiting before shutting down
-[10:05:00] Last EH closed, waiting before shutting down
+[10:17:44] Last EH closed, waiting before shutting down
 Got delay-shutdown request while in shutdown timeout, delaying
-[10:05:04] Got delay-shutdown request while in shutdown timeout, delaying
+[10:17:45] Got delay-shutdown request while in shutdown timeout, delaying
 Cancelling previous shutdown timeout
-[10:05:04] Cancelling previous shutdown timeout
-[10:05:04] [127.0.0.1][d6c2d26f][ManagementConnection] New connection established.
-[10:05:04] [127.0.0.1][9300e960][ExtensionHostConnection] New connection established.
-[10:05:04] [127.0.0.1][9300e960][ExtensionHostConnection] <3827115> Launched Extension Host Process.
+[10:17:45] Cancelling previous shutdown timeout
+[10:17:46] [127.0.0.1][1abb0110][ManagementConnection] Unknown reconnection token (never seen).
+[10:17:46] [127.0.0.1][fa7a1837][ExtensionHostConnection] Unknown reconnection token (never seen).
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:17:50] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:17:50] Cancelling previous shutdown timeout
+[10:17:50] [127.0.0.1][1b821b71][ManagementConnection] New connection established.
+[10:17:50] [127.0.0.1][c0bac4b2][ExtensionHostConnection] New connection established.
+[10:17:50] [127.0.0.1][c0bac4b2][ExtensionHostConnection] <2565867> Launched Extension Host Process.
 [IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
   '-c',
   'wget --version > /dev/null\n' +
@@ -150,187 +156,247 @@ Cancelling previous shutdown timeout
     'fi\n' +
     'exit 0'
 ]
-rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
-stack trace: CodeExpectedError: Could not find pty on pty host
-    at k.L (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
-    at k.updateTitle (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
-    at Object.call (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
-    at h.s (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
-    at h.q (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
-    at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
-    at l.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
-    at u.deliver (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
-    at s.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
-    at process.z (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
-    at process.emit (node:events:513:28)
-    at emit (node:internal/child_process:939:14)
-    at processTicksAndRejections (node:internal/process/task_queues:84:21)
-[10:05:06] Error [CodeExpectedError]: Could not find pty on pty host
-    at k.L (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:6920)
-    at k.updateTitle (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:28:2627)
-    at Object.call (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:17:5058)
-    at h.s (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:5412)
-    at h.q (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4915)
-    at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:15:4326
-    at l.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
-    at u.deliver (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
-    at s.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
-    at process.z (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/platform/terminal/node/ptyHostMain.js:9:21144)
-    at process.emit (node:events:513:28)
-    at emit (node:internal/child_process:939:14)
-    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:18:05] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:18:05] Cancelling previous shutdown timeout
+[10:18:05] [127.0.0.1][b324b807][ManagementConnection] New connection established.
+[10:18:05] [127.0.0.1][b485c92a][ExtensionHostConnection] New connection established.
+[10:18:05] [127.0.0.1][b485c92a][ExtensionHostConnection] <2566123> Launched Extension Host Process.
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 73
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 74
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 75
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 76
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 77
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 78
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 79
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 80
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 81
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 82
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 83
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 84
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 85
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 86
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 87
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 88
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 89
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 90
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 91
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 92
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 93
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 94
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 95
+[10:18:06] RequestStore#acceptReply was called without receiving a matching request 96
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:18:20] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:18:20] Cancelling previous shutdown timeout
+[10:18:20] [127.0.0.1][eece7d23][ManagementConnection] New connection established.
+[10:18:20] [127.0.0.1][f351ca1e][ExtensionHostConnection] New connection established.
+[10:18:20] [127.0.0.1][f351ca1e][ExtensionHostConnection] <2566393> Launched Extension Host Process.
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 97
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 98
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 99
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 100
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 101
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 102
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 103
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 104
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 105
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 106
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 107
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 108
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 109
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 110
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 111
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 112
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 113
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 114
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 97
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 98
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 99
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 100
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 101
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 102
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 103
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 104
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 105
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 106
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 107
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 108
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 109
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 110
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 111
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 112
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 113
+[10:18:21] RequestStore#acceptReply was called without receiving a matching request 114
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 115
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 115
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 116
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 116
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 117
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 117
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 118
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 118
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 119
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 119
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 120
+[10:18:22] RequestStore#acceptReply was called without receiving a matching request 120
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 121
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 122
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 121
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 122
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 123
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 123
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 124
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 124
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 125
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 125
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 126
+[10:19:02] RequestStore#acceptReply was called without receiving a matching request 126
 New EH opened, aborting shutdown
-[10:10:04] New EH opened, aborting shutdown
-[11:18:03] Getting Manifest... bmewburn.vscode-intelephense-client
-[11:18:03] Installing extension: bmewburn.vscode-intelephense-client
-[11:18:05] Extension signature is verified: bmewburn.vscode-intelephense-client
-[11:18:06] Extracted extension to /home/s245/.vscode-server/extensions/.e3ee2745-f278-4e56-88c4-84de72637560: bmewburn.vscode-intelephense-client
-[11:18:06] Renamed to /home/s245/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1
-[11:18:06] Extracting extension completed. bmewburn.vscode-intelephense-client
-[11:18:06] Extension installed successfully: bmewburn.vscode-intelephense-client
-[15:27:06] [127.0.0.1][c0661971][ManagementConnection] New connection established.
-[15:27:06] [127.0.0.1][12cbfddb][ExtensionHostConnection] New connection established.
-[15:27:06] [127.0.0.1][12cbfddb][ExtensionHostConnection] <3988187> Launched Extension Host Process.
-[15:27:06] RequestStore#acceptReply was called without receiving a matching request 73
-[15:27:06] RequestStore#acceptReply was called without receiving a matching request 74
-[15:27:06] RequestStore#acceptReply was called without receiving a matching request 75
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 76
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 77
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 78
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 79
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 80
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 81
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 82
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 83
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 84
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 85
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 86
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 87
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 88
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 89
-[15:27:07] RequestStore#acceptReply was called without receiving a matching request 90
-[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
-  '-c',
-  'wget --version > /dev/null\n' +
-    'if [ $? -eq 0 ]\n' +
-    'then\n' +
-    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
-    'else\n' +
-    '\tcurl --version > /dev/null\n' +
-    '\tif [ $? -eq 0 ]\n' +
-    '\tthen\n' +
-    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
-    '\tfi\n' +
-    'fi\n' +
-    'exit 0'
-]
-[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
-  '-c',
-  'wget --version > /dev/null\n' +
-    'if [ $? -eq 0 ]\n' +
-    'then\n' +
-    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
-    'else\n' +
-    '\tcurl --version > /dev/null\n' +
-    '\tif [ $? -eq 0 ]\n' +
-    '\tthen\n' +
-    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
-    '\tfi\n' +
-    'fi\n' +
-    'exit 0'
-]
-[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
-  '-c',
-  'wget --version > /dev/null\n' +
-    'if [ $? -eq 0 ]\n' +
-    'then\n' +
-    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
-    'else\n' +
-    '\tcurl --version > /dev/null\n' +
-    '\tif [ $? -eq 0 ]\n' +
-    '\tthen\n' +
-    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
-    '\tfi\n' +
-    'fi\n' +
-    'exit 0'
-]
-[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
-  '-c',
-  'wget --version > /dev/null\n' +
-    'if [ $? -eq 0 ]\n' +
-    'then\n' +
-    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
-    'else\n' +
-    '\tcurl --version > /dev/null\n' +
-    '\tif [ $? -eq 0 ]\n' +
-    '\tthen\n' +
-    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
-    '\tfi\n' +
-    'fi\n' +
-    'exit 0'
-]
-[15:27:08] RequestStore#acceptReply was called without receiving a matching request 91
-[15:27:08] RequestStore#acceptReply was called without receiving a matching request 92
-[15:27:08] RequestStore#acceptReply was called without receiving a matching request 93
-[15:27:08] RequestStore#acceptReply was called without receiving a matching request 94
-[15:27:08] RequestStore#acceptReply was called without receiving a matching request 95
-[15:27:08] RequestStore#acceptReply was called without receiving a matching request 96
-[15:37:14] RequestStore#acceptReply was called without receiving a matching request 97
-[15:37:14] RequestStore#acceptReply was called without receiving a matching request 98
-[15:37:14] RequestStore#acceptReply was called without receiving a matching request 99
-[15:37:14] RequestStore#acceptReply was called without receiving a matching request 100
-[15:37:14] RequestStore#acceptReply was called without receiving a matching request 101
-[15:37:14] RequestStore#acceptReply was called without receiving a matching request 102
-[15:37:47] RequestStore#acceptReply was called without receiving a matching request 103
-[15:37:47] RequestStore#acceptReply was called without receiving a matching request 104
-[15:37:47] RequestStore#acceptReply was called without receiving a matching request 105
-[15:37:47] RequestStore#acceptReply was called without receiving a matching request 106
-[15:37:47] RequestStore#acceptReply was called without receiving a matching request 107
-[15:37:47] RequestStore#acceptReply was called without receiving a matching request 108
-[15:40:46] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
-[15:41:46] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
-[15:42:35] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
-[15:46:01] RequestStore#acceptReply was called without receiving a matching request 109
-[15:46:01] RequestStore#acceptReply was called without receiving a matching request 110
-[15:46:01] RequestStore#acceptReply was called without receiving a matching request 111
-[15:46:01] RequestStore#acceptReply was called without receiving a matching request 112
-[15:46:01] RequestStore#acceptReply was called without receiving a matching request 113
-[15:46:01] RequestStore#acceptReply was called without receiving a matching request 114
-[15:47:15] Getting Manifest... argutec.argutec-azure-repos
-[15:47:15] Installing extension: argutec.argutec-azure-repos
-[15:47:17] Extension signature is verified: argutec.argutec-azure-repos
-[15:47:19] Extracted extension to /home/s245/.vscode-server/extensions/.5cb6e106-ed14-42a8-835c-b6216931316e: argutec.argutec-azure-repos
-[15:47:19] Renamed to /home/s245/.vscode-server/extensions/argutec.argutec-azure-repos-1.2007.15
-[15:47:19] Extracting extension completed. argutec.argutec-azure-repos
-[15:47:19] Extension installed successfully: argutec.argutec-azure-repos
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 115
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 116
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 117
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 118
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 119
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 120
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 121
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 122
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 123
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 124
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 125
-[15:47:19] RequestStore#acceptReply was called without receiving a matching request 126
-[15:54:48] Getting Manifest... github.vscode-pull-request-github
-[15:54:48] Installing extension: github.vscode-pull-request-github
-[15:54:50] Extension signature is verified: github.vscode-pull-request-github
-[15:54:50] Extracted extension to /home/s245/.vscode-server/extensions/.4c35f7ad-21e1-4a12-bfd4-dce58cfb1ee2: github.vscode-pull-request-github
-[15:54:50] Renamed to /home/s245/.vscode-server/extensions/github.vscode-pull-request-github-0.66.2
-[15:54:50] Extracting extension completed. github.vscode-pull-request-github
-[15:54:50] Extension installed successfully: github.vscode-pull-request-github
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 127
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 128
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 129
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 130
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 131
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 132
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 133
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 134
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 135
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 136
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 137
-[15:54:51] RequestStore#acceptReply was called without receiving a matching request 138
+[10:23:20] New EH opened, aborting shutdown
+[10:24:20] RequestStore#acceptReply was called without receiving a matching request 127
+[10:24:20] RequestStore#acceptReply was called without receiving a matching request 127
+[10:24:20] RequestStore#acceptReply was called without receiving a matching request 128
+[10:24:20] RequestStore#acceptReply was called without receiving a matching request 128
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 129
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 129
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 130
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 130
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 131
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 131
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 132
+[10:24:21] RequestStore#acceptReply was called without receiving a matching request 132
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 133
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 134
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 135
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 133
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 136
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 134
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 135
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 136
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 137
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 137
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 138
+[10:29:49] RequestStore#acceptReply was called without receiving a matching request 138

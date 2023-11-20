@@ -1,0 +1,244 @@
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: starting
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631623
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at d.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:647801)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:658854)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: starting
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631688
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at p.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:651327)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:659168)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:15:28 AM] Connection to server got closed. Server will restart.
+[Error - 10:15:28 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Markdown Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631623
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at d.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:647801)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:658854)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631688
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at p.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:651327)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:659168)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:15:28 AM] Connection to server got closed. Server will restart.
+[Error - 10:15:28 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Markdown Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631623
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at d.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:647801)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:658854)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631688
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at p.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:651327)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:659168)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:15:28 AM] Connection to server got closed. Server will restart.
+[Error - 10:15:28 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Markdown Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631623
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at d.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:647801)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:658854)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631688
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at p.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:651327)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:659168)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Info  - 10:15:28 AM] Connection to server got closed. Server will restart.
+[Error - 10:15:28 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Markdown Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Client Markdown Language Server: connection to server is erroring. Shutting down server.
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631623
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at d.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:647801)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:658854)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:15:28 AM] Stopping server failed
+Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at b.shutdown (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:685137)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:684718)
+	at b.stop (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:844984)
+	at b.handleConnectionError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:690681)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:689508
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:688674
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at /home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:631688
+	at r.invoke (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:639313)
+	at a.fire (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:640078)
+	at p.fireError (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:651327)
+	at ChildProcess.<anonymous> (/home/s245/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/extensions/markdown-language-features/dist/extension.js:2:659168)
+	at ChildProcess.emit (node:events:525:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:289:12)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[Error - 10:15:28 AM] The Markdown Language Server server crashed 5 times in the last 3 minutes. The server will not be restarted. See the output for more information.
+[Error - 10:15:28 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Markdown Language Server client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:15:28 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
