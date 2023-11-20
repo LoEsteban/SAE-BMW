@@ -1,0 +1,8 @@
+2023-11-20 09:31:16.752 [info] Extension host with pid 2544357 started
+2023-11-20 09:31:16.828 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-20 09:31:16.830 [info] ExtensionService#_doActivateExtension argutec.argutec-azure-repos, startup: true, activationEvent: '*'
+2023-11-20 09:31:17.140 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-20 09:31:17.140 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-20 09:31:17.488 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-20 09:31:19.438 [info] Extension host terminating: received terminate message from renderer
+2023-11-20 09:31:19.448 [info] Extension host with pid 2544357 exiting with code 0

@@ -1,0 +1,83 @@
+ .bash_history                                                                                      |   110 [32m+[m
+ .vscode-server/.b380da4ef1ee00e224a15c1d4d9793e27c2b6302.log                                       |   444 [32m+[m[31m-[m
+ .vscode-server/.b380da4ef1ee00e224a15c1d4d9793e27c2b6302.pid                                       |     2 [32m+[m[31m-[m
+ .vscode-server/.b380da4ef1ee00e224a15c1d4d9793e27c2b6302.token                                     |     2 [32m+[m[31m-[m
+ .vscode-server/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.66.2                  |   Bin [31m1451546[m -> [32m0[m bytes
+ .vscode-server/data/CachedProfilesData/__default__profile__/extensions.builtin.cache               |     2 [32m+[m[31m-[m
+ .vscode-server/data/User/History/3432a852/entries.json                                             |     2 [32m+[m[31m-[m
+ .vscode-server/data/User/workspaceStorage/bafc61b3c12b80fbd74fefa2df04ee8e-1/vscode.lock           |     2 [32m+[m[31m-[m
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_1                               |     2 [32m+[m[31m-[m
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_2                               |   Bin [31m741222[m -> [32m763438[m bytes
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_3                               |   Bin [31m13371253[m -> [32m13532922[m bytes
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_4                               |   Bin [31m4166339[m -> [32m4185217[m bytes
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_5                               |  8730 [32m++++[m[31m-----[m
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_6                               | 48021 [32m+++++++++++++++++++++++[m[31m------------------------[m
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_7                               |   Bin [31m2093[m -> [32m2093[m bytes
+ .../bmewburn.vscode-intelephense-client/35251de0/intelephense_data_8                               |   957 [32m+[m[31m-[m
+ .vscode-server/data/User/workspaceStorage/bafc61b3c12b80fbd74fefa2df04ee8e/vscode.lock             |     2 [32m+[m[31m-[m
+ .../data/logs/20231115T100453/exthost2/GitHub.vscode-pull-request-github/GitHub Pull Request.log   |    18 [32m+[m
+ .../data/logs/20231115T100453/exthost2/output_logging_20231115T100504/1-intelephense.log           |     1 [32m+[m
+ .vscode-server/data/logs/20231115T100453/exthost2/remoteexthost.log                                |   293 [32m+[m
+ .vscode-server/data/logs/20231115T100453/exthost2/vscode.git/Git.log                               |    94 [32m+[m
+ .../data/logs/20231115T100453/exthost3/GitHub.vscode-pull-request-github/GitHub Pull Request.log   |    18 [32m+[m
+ .vscode-server/data/logs/20231115T100453/exthost3/remoteexthost.log                                |  1445 [32m++[m
+ .vscode-server/data/logs/20231115T100453/exthost3/vscode.git/Git.log                               |   239 [32m+[m
+ .vscode-server/data/logs/20231115T100453/remoteagent.log                                           |    11 [32m+[m
+ .vscode-server/extensions/extensions.json                                                          |     2 [32m+[m[31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/.vsixmanifest                   |    46 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/CHANGELOG.md                    |  1315 [31m--[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/LICENSE.txt                     |    21 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/README.md                       |    85 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/SECURITY.md                     |    41 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/ThirdPartyNotices.txt           |  4641 [31m-----[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension.js       |  1807 [31m--[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.cs.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.de.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.es.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.fr.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.it.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.ja.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.ko.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.pl.json |     1 [31m-[m
+ .../github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.pt-br.json         |     1 [31m-[m
+ .../github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.qps-ploc.json      |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.ru.json |     1 [31m-[m
+ .../extensions/github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.tr.json |     1 [31m-[m
+ .../github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.zh-cn.json         |     1 [31m-[m
+ .../github.vscode-pull-request-github-0.66.2/dist/browser/extension/bundle.l10n.zh-tw.json         |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/dist/extension.js               |  1849 [31m--[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/dist/webview-create-pr-view.js  |   474 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/dist/webview-open-pr-view.js    |   514 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/dist/webview-pr-description.js  |  1561 [31m--[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.json                    |  2439 [31m---[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.cs.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.de.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.es.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.fr.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.it.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.ja.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.json                |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.ko.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.pl.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.pt-br.json          |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.qps-ploc.json       |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.ru.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.tr.json             |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.zh-cn.json          |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/package.nls.zh-tw.json          |     1 [31m-[m
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/resources/icons/github_logo.png |   Bin [31m16717[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/confused.png     |   Bin [31m2384[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/eyes.png         |   Bin [31m2768[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/heart.png        |   Bin [31m4190[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/hooray.png       |   Bin [31m4549[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/laugh.png        |   Bin [31m3686[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/rocket.png       |   Bin [31m5298[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/thumbs_down.png  |   Bin [31m3500[m -> [32m0[m bytes
+ .../extensions/github.vscode-pull-request-github-0.66.2/resources/icons/reactions/thumbs_up.png    |   Bin [31m3566[m -> [32m0[m bytes
+ .vscode-server/extensions/github.vscode-pull-request-github-0.66.2/telemetry.json                  |     1 [31m-[m
+ 4BMW/app/Models/CompteClient.php                                                                   |    32 [31m-[m
+ 4BMW/config/database.php                                                                           |     8 [32m+[m[31m-[m
+ 4BMW/resources/css/app.css                                                                         |     4 [32m+[m
+ 4BMW/routes/web.php                                                                                |     3 [32m+[m[31m-[m
+ test/in.html                                                                                       |     0
+ 82 files changed, 31417 insertions(+), 43850 deletions(-)

@@ -19,3 +19,15 @@
 2023-11-20 10:18:30.004 [info] Review> No matching pull request metadata found locally for current branch main
 2023-11-20 10:18:30.004 [info] Review> no matching pull request metadata found for current branch main
 2023-11-20 10:18:30.004 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-20 10:38:23.762 [info] Review> Validate state in progress
+2023-11-20 10:38:23.762 [info] Review> Validating state...
+2023-11-20 10:38:23.817 [info] Found GitHub remote for folder /home/s245
+2023-11-20 10:38:23.936 [info] Review> No matching pull request metadata found locally for current branch original
+2023-11-20 10:38:23.936 [info] Review> no matching pull request metadata found for current branch original
+2023-11-20 10:38:23.937 [info] Review> No matching pull request metadata found on GitHub for current branch original
+2023-11-20 10:43:23.871 [info] Review> Validate state in progress
+2023-11-20 10:43:23.871 [info] Review> Validating state...
+2023-11-20 10:43:23.898 [info] Found GitHub remote for folder /home/s245
+2023-11-20 10:43:23.994 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-20 10:43:23.994 [info] Review> no matching pull request metadata found for current branch main
+2023-11-20 10:43:23.994 [info] Review> No matching pull request metadata found on GitHub for current branch main

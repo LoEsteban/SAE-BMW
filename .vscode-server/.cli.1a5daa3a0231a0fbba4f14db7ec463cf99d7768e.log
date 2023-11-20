@@ -1,0 +1,4 @@
+Listening on 127.0.0.1:38787
+[2023-11-19 15:15:09] info Disposed of connection to running server.
+looking for token fad500889f58, got Some("fad500889f58")
+[2023-11-19 17:21:56] info Disposed of connection to running server.

@@ -1,0 +1,15 @@
+2023-11-18 14:12:12.394 [warning] /home/s245/.ssh/config: ENOENT: no such file or directory, open '/home/s245/.ssh/config'
+2023-11-18 14:12:12.394 [info] Activation> Extension version: 0.76.1
+2023-11-18 14:12:13.003 [info] Looking for git repository
+2023-11-18 14:12:13.003 [info] Found 0 repositories during activation
+2023-11-18 14:12:13.003 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-18 14:12:13.008 [info] Registering git provider
+2023-11-18 14:12:13.008 [info] Review> Validate state in progress
+2023-11-18 14:12:13.008 [info] Review> Validating state...
+2023-11-18 14:12:13.124 [info] Found GitHub remote for folder /home/s245
+2023-11-18 14:12:13.127 [info] Trying to use globalState for assignableUsers.
+2023-11-18 14:12:13.259 [info] Repo state for file:///home/s245 changed.
+2023-11-18 14:12:13.259 [info] Repo file:///home/s245 has already been setup.
+2023-11-18 14:12:13.260 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-18 14:12:13.260 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-18 14:12:13.264 [info] GlobalState does not exist for assignableUsers.

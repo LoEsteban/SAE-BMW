@@ -1,0 +1,22 @@
+[Info  - 8:56:49 AM] Initialising intelephense 1.10.1
+[Info  - 8:56:49 AM] Initialised in 11 ms
+[Info  - 8:56:49 AM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 8:56:49 AM] Searching file:///home/s245/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 8:56:49 AM] Searching file:///home/s245 for files to index.
+[Warn  - 8:56:50 AM] file:///home/s245/4BMW/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 8:56:50 AM] Indexing started.
+[Info  - 8:56:50 AM] Searching file:///home/s245/.vscode-server/data/User/workspaceStorage/bafc61b3c12b80fbd74fefa2df04ee8e/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 8:56:50 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost2/output_logging_20231120T085600 for files to index.
+[Info  - 8:57:02 AM] Indexing ended. 7593 files indexed in 12s.
+[Info  - 8:57:02 AM] Writing state to /home/s245/.vscode-server/data/User/workspaceStorage/bafc61b3c12b80fbd74fefa2df04ee8e/bmewburn.vscode-intelephense-client/35251de0.
+[Info  - 8:57:03 AM] Wrote state in 1.1s.
+[Info  - 9:31:17 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost3 for files to index.
+[Info  - 9:31:18 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost3/vscode.git for files to index.
+[Info  - 9:31:18 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost3/vscode.github for files to index.
+[Info  - 9:31:31 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost4 for files to index.
+[Info  - 9:31:31 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost4/vscode.github for files to index.
+[Info  - 9:31:32 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost4/vscode.git for files to index.
+[Info  - 9:31:34 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost4/output_logging_20231120T093130 for files to index.
+[Info  - 9:38:26 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost5 for files to index.
+[Info  - 9:38:27 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost5/vscode.git for files to index.
+[Info  - 9:38:27 AM] Searching file:///home/s245/.vscode-server/data/logs/20231120T085537/exthost5/vscode.github for files to index.

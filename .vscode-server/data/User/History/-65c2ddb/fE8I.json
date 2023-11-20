@@ -1,0 +1,12 @@
+{
+    "C_Cpp_Runner.cCompilerPath": "/usr/bin/gcc",
+    "editor.renderControlCharacters": true,
+    "files.autoSave": "afterDelay",
+    "cmake.configureOnOpen": true,
+    "cmake.cmakePath": "cmake.exe",
+    "cmake.generator": "MinGW Makefiles",
+    "editor.tabSize": 2,
+    "remote.SSH.remotePlatform": {
+        "51.83.36.122": "linux"
+    }
+}

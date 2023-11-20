@@ -22,3 +22,8 @@
 2023-11-20 10:29:33.103 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
 2023-11-20 10:29:53.107 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
 2023-11-20 10:33:23.617 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6224
+2023-11-20 10:34:58.107 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-11-20 10:34:58.108 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-11-20 10:38:23.750 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6233
+2023-11-20 10:46:18.483 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1705
+2023-11-20 10:48:23.996 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1705

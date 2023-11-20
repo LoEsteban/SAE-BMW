@@ -1,0 +1,24 @@
+2023-11-20 09:31:32.930 [info] Log level: Info
+2023-11-20 09:31:32.930 [info] Validating found git in: "git"
+2023-11-20 09:31:32.930 [info] Using git "2.20.1" from "git"
+2023-11-20 09:31:32.930 [info] > git rev-parse --show-toplevel [11ms]
+2023-11-20 09:31:32.930 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-11-20 09:31:32.930 [info] Open repository: /home/s245
+2023-11-20 09:31:32.930 [info] > git rev-parse --show-toplevel [11ms]
+2023-11-20 09:31:32.930 [info] > git config --get commit.template [8ms]
+2023-11-20 09:31:32.931 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-20 09:31:32.931 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2023-11-20 09:31:32.931 [info] > git rev-parse --show-toplevel [43ms]
+2023-11-20 09:31:32.931 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-20 09:31:32.931 [info] > git status -z -uall --find-renames=50% [50ms]
+2023-11-20 09:31:32.931 [info] > git rev-parse --show-toplevel [82ms]
+2023-11-20 09:31:32.931 [info] > git rev-parse --show-toplevel [14ms]
+2023-11-20 09:31:32.931 [info] > git config --get commit.template [16ms]
+2023-11-20 09:31:32.931 [info] > git rev-parse --show-toplevel [13ms]
+2023-11-20 09:31:32.931 [info] > git rev-parse --show-toplevel [317ms]
+2023-11-20 09:31:32.931 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [327ms]
+2023-11-20 09:31:32.973 [info] > git status -z -uall --find-renames=50% [51ms]
+2023-11-20 09:31:33.084 [info] > git check-ignore -v -z --stdin [7ms]
+2023-11-20 09:31:52.516 [info] > git check-ignore -v -z --stdin [8ms]
+2023-11-20 09:31:53.082 [info] > git check-ignore -v -z --stdin [4ms]
+2023-11-20 09:32:57.481 [info] > git check-ignore -v -z --stdin [11ms]

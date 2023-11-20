@@ -400,3 +400,4 @@ New EH opened, aborting shutdown
 [10:29:49] RequestStore#acceptReply was called without receiving a matching request 137
 [10:29:49] RequestStore#acceptReply was called without receiving a matching request 138
 [10:29:49] RequestStore#acceptReply was called without receiving a matching request 138
+[10:44:17] [/home/s245/.vscode-server/extensions/github.vscode-pull-request-github-0.76.1]: Extension is not compatible with Code 1.79.0. Extension requires: ^1.83.0.

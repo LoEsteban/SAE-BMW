@@ -1,0 +1,54 @@
+[Info  - 3:15:27 PM] Initialising intelephense 1.10.1
+[Info  - 3:15:27 PM] Initialised in 11 ms
+[Info  - 3:15:27 PM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 3:15:27 PM] Searching file:///home/s245/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 3:15:27 PM] Searching file:///home/s245 for files to index.
+[Warn  - 3:15:28 PM] file:///home/s245/4BMW/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 3:15:28 PM] Indexing started.
+[Info  - 3:15:28 PM] Searching file:///home/s245/.vscode-server/data/User/workspaceStorage/1209ee23fdc27ff37a2f1f3090bc69ef/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 3:15:28 PM] Searching file:///home/s245/.vscode-server/data/logs/20231119T151434/exthost2/output_logging_20231119T151500 for files to index.
+[Info  - 3:15:39 PM] Indexing ended. 7521 files indexed in 11s.
+[Info  - 3:15:39 PM] Writing state to /home/s245/.vscode-server/data/User/workspaceStorage/1209ee23fdc27ff37a2f1f3090bc69ef/bmewburn.vscode-intelephense-client/35251de0.
+[Info  - 3:15:40 PM] Wrote state in 1.2s.
+[Info  - 3:25:11 PM] Searching file:///home/s245/4BMW/resources/views/layouts for files to index.
+[Info  - 3:25:28 PM] Searching file:///home/s245/.vscode-server/data/User/History/-7623ab0d for files to index.
+[Info  - 3:46:45 PM] Indexing started.
+[Info  - 3:46:45 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:48:10 PM] Indexing started.
+[Info  - 3:48:10 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:48:40 PM] Searching file:///home/s245/.vscode-server/data/User/History/-36a1e45d for files to index.
+[Info  - 3:53:47 PM] Indexing started.
+[Info  - 3:53:47 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:53:59 PM] Searching file:///home/s245/.vscode-server/data/User/History/-5c259f57 for files to index.
+[Info  - 3:54:57 PM] Indexing started.
+[Info  - 3:54:58 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:55:07 PM] Searching file:///home/s245/.vscode-server/data/User/History/-25a3900b for files to index.
+[Info  - 3:57:50 PM] Indexing started.
+[Info  - 3:57:50 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:57:57 PM] Searching file:///home/s245/.vscode-server/data/User/History/-5f6197c5 for files to index.
+[Info  - 3:58:36 PM] Searching file:///home/s245/.vscode-server/data/User/History/524ab0f8 for files to index.
+[Info  - 3:58:36 PM] Indexing started.
+[Info  - 3:58:36 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:04:08 PM] Indexing started.
+[Info  - 4:04:08 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:04:16 PM] Searching file:///home/s245/.vscode-server/data/User/History/2327c7ac for files to index.
+[Info  - 4:13:16 PM] Indexing started.
+[Info  - 4:13:17 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:13:24 PM] Searching file:///home/s245/.vscode-server/data/User/History/-245c20b0 for files to index.
+[Info  - 4:14:47 PM] Indexing started.
+[Info  - 4:14:47 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:15:02 PM] Searching file:///home/s245/.vscode-server/data/User/History/7f4a6d2b for files to index.
+[Info  - 4:18:27 PM] Indexing started.
+[Info  - 4:18:27 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:18:39 PM] Searching file:///home/s245/.vscode-server/data/User/History/-384a6520 for files to index.
+[Info  - 4:26:52 PM] Indexing started.
+[Info  - 4:26:53 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:27:00 PM] Searching file:///home/s245/.vscode-server/data/User/History/3c3667f6 for files to index.
+[Info  - 4:38:29 PM] Searching file:///home/s245/.vscode-server/data/User/History/3d533e6f for files to index.
+[Info  - 4:39:24 PM] Searching file:///home/s245/.vscode-server/data/User/History/-5195778b for files to index.
+[Info  - 4:50:04 PM] Indexing started.
+[Info  - 4:50:04 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:50:59 PM] Indexing started.
+[Info  - 4:50:59 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:51:32 PM] Searching file:///home/s245/.vscode-server/data/User/History/-5f6d9db6 for files to index.
+[Info  - 4:55:45 PM] Searching file:///home/s245/.vscode-server/data/User/History/-328a8b84 for files to index.

@@ -1,0 +1,37 @@
+code:
+
+Migrations (https://laravel.com/docs/10.x/migrations):
+  pour lancer les migrations : php artisan migrate
+
+  clés étrangères : $table->foreignId('nomcolonne')->constrained(table:'nomtable', 'nomcolidtablereferencee');
+
+
+Models :
+  nom table comme exemple : Flight (model) -> flights(table) ou AirTrafficController (model) -> air_traffic_controllers (table)
+  si pas le cas alors mettre protected $table = 'nomtable'; en bas de la classe
+
+
+requetes :
+  pour join utiliser facade db ??? (use Illuminate\Support\Facades\DB)
+  $result = DB::table('tablededépart')->join('tablejoin1', 'tablededépart.iddujoin', '=', 'tablejoin1.iddujoin')
+
+INSTALLATION:
+
+https://luc-damas.fr/tuto-laravel/#install
+Site fait en cours : beer sur le serveur distant
+
+Setup :
+Connecter sur serveur distant
+
+composer create-project laravel/laravel nomsite
+
+php artisan serve --port 8080
+
+créer schema et table sur phppgadmin http://51.83.36.122/phppgadmin/
+
+editer .env enlever les 6 lignes avec le truc 127.0.0.0
+editer config/app.php et mettre debug à true
+editer config/database.php, remplacer default de mysql en pgsql puis partie ‘pgsql’ pour mettre les bons truc qu’on à créé sur phppgadmin
+
+pages : routes
+classes : controllers dans app/http

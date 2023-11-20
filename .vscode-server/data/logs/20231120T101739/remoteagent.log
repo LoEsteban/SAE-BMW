@@ -139,3 +139,4 @@
 2023-11-20 10:29:49.648 [warning] RequestStore#acceptReply was called without receiving a matching request 137
 2023-11-20 10:29:49.668 [warning] RequestStore#acceptReply was called without receiving a matching request 138
 2023-11-20 10:29:49.669 [warning] RequestStore#acceptReply was called without receiving a matching request 138
+2023-11-20 10:44:17.694 [error] [/home/s245/.vscode-server/extensions/github.vscode-pull-request-github-0.76.1]: Extension is not compatible with Code 1.79.0. Extension requires: ^1.83.0.
